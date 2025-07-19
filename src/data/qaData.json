@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "domain": "kund",
+      "question": "What is Dashashwamedh Ghat famous for?",
+      "questionHindi": "दशाश्वमेध घाट किस लिए प्रसिद्ध है?",
+      "answer": "Dashashwamedh Ghat is famous for its evening Ganga Aarti ceremony, which is a spectacular spiritual ritual performed daily at sunset.",
+      "answerHindi": "दशाश्वमेध घाट अपनी शाम की गंगा आरती के लिए प्रसिद्ध है, जो सूर्यास्त के समय दैनिक रूप से किया जाने वाला एक शानदार आध्यात्मिक अनुष्ठान है।",
+      "lang": "both"
+    },
+    {
+      "id": "2",
+      "domain": "temple",
+      "question": "What are the visiting hours of Kashi Vishwanath Temple?",
+      "questionHindi": "काशी विश्वनाथ मंदिर के दर्शन का समय क्या है?",
+      "answer": "Kashi Vishwanath Temple is open from 3:00 AM to 11:00 PM daily. Early morning (4-7 AM) and evening (7-9 PM) are the best times to visit.",
+      "answerHindi": "काशी विश्वनाथ मंदिर प्रतिदिन सुबह 3:00 बजे से रात 11:00 बजे तक खुला रहता है। सुबह जल्दी (4-7 बजे) और शाम (7-9 बजे) दर्शन के लिए सबसे अच्छा समय है।",
+      "lang": "both"
+    },
+    {
+      "id": "3",
+      "domain": "food",
+      "question": "What are the famous street foods in Varanasi?",
+      "questionHindi": "वाराणसी के प्रसिद्ध स्ट्रीट फूड कौन से हैं?",
+      "answer": "Famous street foods include Kachori Sabzi, Chaat, Lassi, Malaiyo, Baati Chokha, and Tamatar Chaat. Don't miss the famous Blue Lassi shop!",
+      "answerHindi": "प्रसिद्ध स्ट्रीट फूड में कचौड़ी सब्जी, चाट, लस्सी, मलाइयो, बाटी चोखा, और टमाटर चाट शामिल हैं। प्रसिद्ध ब्लू लस्सी शॉप को न भूलें!",
+      "lang": "both"
+    },
+    {
+      "id": "4",
+      "domain": "aarti",
+      "question": "What time does the Ganga Aarti start?",
+      "questionHindi": "गंगा आरती कितने बजे शुरू होती है?",
+      "answer": "The evening Ganga Aarti at Dashashwamedh Ghat starts at 6:45 PM in winter and 7:00 PM in summer. Arrive 30 minutes early for good spots.",
+      "answerHindi": "दशाश्वमेध घाट पर शाम की गंगा आरती सर्दियों में शाम 6:45 बजे और गर्मियों में 7:00 बजे शुरू होती है। अच्छी जगह के लिए 30 मिनट पहले पहुंचें।",
+      "lang": "both"
+    },
+    {
+      "id": "5",
+      "domain": "cruise",
+      "question": "How much does a boat ride cost on the Ganges?",
+      "questionHindi": "गंगा में नाव की सवारी की कीमत कितनी है?",
+      "answer": "Boat rides cost between ₹100-500 per person depending on duration and type. Sunrise boat rides (₹200-300) and sunset rides (₹300-500) are most popular.",
+      "answerHindi": "नाव की सवारी की कीमत अवधि और प्रकार के आधार पर ₹100-500 प्रति व्यक्ति है। सूर्योदय नाव सवारी (₹200-300) और सूर्यास्त सवारी (₹300-500) सबसे लोकप्रिय हैं।",
+      "lang": "both"
+    },
+    {
+      "id": "6",
+      "domain": "toilet",
+      "question": "Where can I find clean public toilets near the ghats?",
+      "questionHindi": "घाटों के पास साफ सार्वजनिक शौचालय कहाँ मिल सकते हैं?",
+      "answer": "Clean public toilets are available at Dashashwamedh Ghat, Assi Ghat, and near Kashi Vishwanath Temple. Most charge ₹5-10. Hotels and restaurants also allow usage.",
+      "answerHindi": "साफ सार्वजनिक शौचालय दशाश्वमेध घाट, अस्सी घाट, और काशी विश्वनाथ मंदिर के पास उपलब्ध हैं। अधिकतर ₹5-10 चार्ज करते हैं। होटल और रेस्तराँ भी उपयोग की अनुमति देते हैं।",
+      "lang": "both"
+    }
+  ]
+}
